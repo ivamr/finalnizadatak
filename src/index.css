@@ -1,0 +1,34 @@
+/* index.css */
+.task-form-container {
+  margin-bottom: 20px;
+}
+
+.task-input {
+  margin-right: 10px;
+}
+
+.add-task-button {
+  cursor: pointer;
+}
+
+.task-list-container {
+  margin-top: 20px;
+}
+
+.task-item {
+  list-style-type: none;
+  margin-bottom: 5px;
+}
+
+.finished-task {
+  text-decoration: line-through;
+}
+
+.app-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.button-container {
+  margin-bottom: 10px;
+}
